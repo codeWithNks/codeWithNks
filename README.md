@@ -22,8 +22,7 @@ I enjoy leveraging these technologies to create efficient and scalable solutions
 ## Contact Me 📫
 
 - [Twitter](https://twitter.com/nksCodes)
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/your_linkedin_profile)
-- Portfolio: [Your portfolio website](https://yourportfolio.com)
-- Email: [Your email address](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/neeraj-sharma-08464a239/)
+- [Email](neeraj.sharma.codes@gmail.com)
 
 Feel free to reach out to discuss potential collaborations or projects!
