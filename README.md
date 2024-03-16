@@ -24,5 +24,6 @@ I enjoy leveraging these technologies to create efficient and scalable solutions
 - [Twitter](https://twitter.com/nksCodes)
 - [LinkedIn](https://www.linkedin.com/in/neeraj-sharma-08464a239/)
 - [Email](neeraj.sharma.codes@gmail.com)
+- [Medium](https://medium.com/@neeraj.sharma.codes)
 
 Feel free to reach out to discuss potential collaborations or projects!
