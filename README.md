@@ -21,7 +21,7 @@ I enjoy leveraging these technologies to create efficient and scalable solutions
 
 ## Contact Me 📫
 
-- Twitter: [Your Twitter handle](https://twitter.com/your_twitter_handle)
+- [Twitter](https://twitter.com/nksCodes)
 - LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/your_linkedin_profile)
 - Portfolio: [Your portfolio website](https://yourportfolio.com)
 - Email: [Your email address](mailto:youremail@example.com)
